@@ -114,12 +114,7 @@ Other treatment options considered were:
 * Accept — Formally acknowledge and retain a risk when the cost of additional controls outweighs the benefit.
 * Avoid — Eliminate the activity creating the risk.
 
-Tools Used
 
-* Google Sheets
-* Risk assessment methodology
-* Cybersecurity risk analysis
-* NIST Cybersecurity Framework concepts
 
 Skills Demonstrated
 
